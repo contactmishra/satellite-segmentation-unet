@@ -9,7 +9,7 @@
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
   <img alt="Model" src="https://img.shields.io/badge/model-U--Net%2C%207.8M%20params-1D1D20?style=flat-square">
   <img alt="Images" src="https://img.shields.io/badge/images-1000%C3%971000%20px-1D1D20?style=flat-square">
-  <a href="https://colab.research.google.com/github/contactmishra/satellite-segmentation-unet/blob/main/satellite_segmentation_unet.ipynb"><img alt="Open in Colab" src="https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"></a>
+  <a href="https://colab.research.google.com/github/theommishra-dev/satellite-segmentation-unet/blob/main/satellite_segmentation_unet.ipynb"><img alt="Open in Colab" src="https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"></a>
 </p>
 
 <p align="center">
